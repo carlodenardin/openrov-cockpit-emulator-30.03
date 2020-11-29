@@ -14,5 +14,14 @@
 git clone https://github.com/OpenROV/openrov-cockpit.git
 ```
 2. Move to openrov-cockpit
-
-
+```
+cd openrov-cockpit
+```
+3. Select the branch 30.03
+```
+git checkout 7d3cebf clone
+```
+4. Install all of the dependencies that are needed.
+```
+npm install
+```
