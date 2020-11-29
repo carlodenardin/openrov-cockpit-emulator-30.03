@@ -1,5 +1,7 @@
 # OpenROV Cockpit Emulator 30.03
 
+Istruzioni per lanciare l'emulatore openrov-cockpit versione 30.03.
+
 ## Requisiti
 1. Ubuntu 18.04 LTS
 2. Node 8.17
