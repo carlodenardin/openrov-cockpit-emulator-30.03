@@ -19,7 +19,7 @@ cd openrov-cockpit
 ```
 3. Selezionare il ramo corrispondente alla versione 30.03
 ```
-git checkout 7d3cebf clone
+git checkout 7d3cebf
 ```
 4. Installare le librerie necessarie
 ```
