@@ -42,3 +42,4 @@ path.existsSync(..) -> fs.existsSync(..)
 USE_MOCK=true DEV_MODE=true HARDWARE_MOCK=true MOCK_VIDEO_TYPE=MJPEG MOCK_VIDEO_HARDWARE=true configfile='/tmp/rovconfig.json' pluginsDownloadDirectory='/tmp/plugins' env plugins__ui-manager__selectedUI='classic-ui'  node src/cockpit.js
 ```
 2. Aprire browser (testato su chrome) e collegarsi alla porta locale 8080 (localhost:8080)
+![alt text](http://url/to/img.png)
