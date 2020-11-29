@@ -43,3 +43,4 @@ USE_MOCK=true DEV_MODE=true HARDWARE_MOCK=true MOCK_VIDEO_TYPE=MJPEG MOCK_VIDEO_
 ```
 2. Aprire browser (testato su chrome) e collegarsi alla porta locale 8080 (localhost:8080)
 ![emulatore](https://github.com/denardincarlo/openrov-cockpit-emulator-30.03/blob/main/emulatore.png)
+![emulatore](https://github.com/denardincarlo/openrov-cockpit-emulator-30.03/blob/main/CambioTema1.png)
