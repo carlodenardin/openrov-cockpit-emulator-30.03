@@ -29,11 +29,11 @@ npm install
 ```
 
 ## Modifiche
-1. Nel file PluginLoader.js in openrov-cockpit/src/lib modificare la linea 32
+1. Nel file PluginLoader.js in openrov-cockpit/src/lib/PluginLoader.js modificare la linea 32
 ```
 path.existsSync(..) -> fs.existsSync(..)
 ```
-2. Nel file OpeROVArduinoFirmwareController in openrov-cockpit/src/lib modificare la linea 22
+2. Nel file OpenROVArduinoFirmwareController in openrov-cockpit/src/lib/OpenROVArduinoFirmwareController.js modificare la linea 22
 ```
 path.existsSync(..) -> fs.existsSync(..)
 ```
